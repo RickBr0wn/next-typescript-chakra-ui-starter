@@ -5,7 +5,11 @@
 
 This is a starter for Next.js with Typescript and Chakra UI.
 
-## Getting Started
+## ⚡️ Quick Start
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/RickBr0wn/next-typescript-chakra-ui-starter)
+
+## 🚀 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -22,29 +26,35 @@ To get this project running locally you will need:
 Clone the repo:
 
 ```bash
-git clone https://github.com/RickBr0wn/next-typescript-chakra-ui-starter <YOUR_PROJECT_NAME> && cd <YOUR_PROJECT_NAME>
+npx create-next-app <YOUR_PROJECT_NAME> -e https://github.com/RickBr0wn/next-typescript-chakra-ui-starter
+```
+
+Once the project and dependencies are finished installing, you can navigate to that directory and start up the development server with:
+
+```bash
+npm run dev
 ```
 
 > Please credit this starter if you build something fantastic!
 
-## Running the tests
+## 🧪 Running the tests
 
 No test scripts available (yet!)
 
-## Built With
+## 🧐 Built With
 
 - [Next.js](https://nextjs.org/) - The React framework
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [Chakra UI](https://chakra-ui.com/) - Simple, Modular & Accessible UI Components for your React Applications
 
-## Contributing
+## ⭐️ Contributing
 
 [CONTRIBUTING.md](https://gist.github.com/RickBr0wn/0b4a139f833e0d0bafddb0d043644b20)
 
-## Author(s)
+## 📚 Author(s)
 
 - **Rick Brown** - _Initial work_ - [RickBr0wn](https://github.com/RickBr0wn)
 
-## License
+## 🪪 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/RickBr0wn/5f95ee6118bb32034e2b94acbd88a99d) file for details
