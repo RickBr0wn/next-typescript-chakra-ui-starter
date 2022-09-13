@@ -3,8 +3,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
-This is a starter for Next.js with Typescript and Chakra UI.
-
 <p align="center">
 <img  src="./public/Screenshot.png" alt="drawing" width="500" />
 </p>
