@@ -5,6 +5,10 @@
 
 This is a starter for Next.js with Typescript and Chakra UI.
 
+<p align="center">
+<img  src="./public/Screenshot.png" alt="drawing" width="500" />
+</p>
+
 ## ⚡️ Quick Start
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/RickBr0wn/next-typescript-chakra-ui-starter)
