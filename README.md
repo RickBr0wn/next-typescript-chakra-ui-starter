@@ -54,10 +54,14 @@ This will run all of the test suites with Jest and React Testing Library, in wat
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [React](https://reactjs.org) - A JavaScript library for building user interfaces
 - [Next.js](https://nextjs.org/) - Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+- [ESLint](https://eslint.org/) - ESLint statically analyzes your code to quickly find problems.
+- [Prettier](https://prettier.io/) - An opinionated code formatter.
+- [Huksy](https://github.com/typicode/husky#readme) - Git hooks made easy.
 - [Chakra UI](https://chakra-ui.com/) - Simple, Modular & Accessible UI Components for your React Applications
+- [Chakra UI Icons](https://github.com/chakra-ui/chakra-ui#readme) - Chakra UI's official icon library
 - [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Simple and complete React DOM testing utilities that encourage good testing practices.
-- [jest-dom](https://github.com/testing-library/jest-dom) - Custom jest matchers to test the state of the DOM
+- [Jest-DOM](https://github.com/testing-library/jest-dom#readme) - Custom jest matchers to test the state of the DOM
 
 ## ⭐️ Contributing
 

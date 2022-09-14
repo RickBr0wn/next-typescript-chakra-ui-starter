@@ -1,4 +1,4 @@
-import { Box, Code, Flex, Heading, Spacer, Text } from '@chakra-ui/react'
+import { Code, Flex, Heading, Spacer, Text } from '@chakra-ui/react'
 
 const Welcome = (): JSX.Element => {
 	return (
