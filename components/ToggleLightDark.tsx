@@ -10,6 +10,7 @@ export default function ToggleLightDark(): JSX.Element {
 			onClick={toggleColorMode}
 			variant='ghost'
 			aria-label={'Theme toggle switch'}
+			role={'switch'}
 		/>
 	)
 }
