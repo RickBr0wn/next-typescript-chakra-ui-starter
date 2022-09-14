@@ -51,8 +51,9 @@ This will run all of the test suites with Jest and React Testing Library, in wat
 
 ## 🧐 Built With
 
-- [Next.js](https://nextjs.org/) - The React framework
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+- [React](https://reactjs.org) - A JavaScript library for building user interfaces
+- [Next.js](https://nextjs.org/) - Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
 - [Chakra UI](https://chakra-ui.com/) - Simple, Modular & Accessible UI Components for your React Applications
 - [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Simple and complete React DOM testing utilities that encourage good testing practices.
