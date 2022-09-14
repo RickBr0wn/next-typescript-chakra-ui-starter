@@ -68,8 +68,4 @@ This will run all of the test suites with Jest and React Testing Library, in wat
 
 ## 🪪 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/RickBr0wn/5f95ee6118bb32034e2b94acbd88a99d) file for details
-
-```
-
-```
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/RickBr0wn/5f95ee6118bb32034e2b94acbd88a99d) file for details.
