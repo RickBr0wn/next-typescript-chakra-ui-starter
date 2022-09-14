@@ -1,6 +1,5 @@
-import { Box, Flex, Spacer } from '@chakra-ui/react'
+import { Flex } from '@chakra-ui/react'
 import Navbar from './Navbar'
-import ToggleLightDark from './ToggleLightDark'
 
 interface _LayoutProps {
 	children: React.ReactNode
