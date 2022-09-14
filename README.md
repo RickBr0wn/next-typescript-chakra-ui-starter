@@ -25,13 +25,15 @@ To get this project running locally you will need:
 
 ### Installing
 
-Clone the repo:
+Clone the repo, don't forget to change the name of the project:
 
 ```bash
 npx create-next-app <YOUR_PROJECT_NAME> -e https://github.com/RickBr0wn/next-typescript-chakra-ui-starter
 ```
 
-Once the project and dependencies are finished installing, you can navigate to that directory and start up the development server with:
+> Important note: If you are using npm, you will need to install the dependencies manually, by using the command `npm install` in the root of the project.
+
+Once the project and dependencies are finished installing, you can navigate to the root directory and start up the development server with:
 
 ```bash
 npm run dev
@@ -41,13 +43,20 @@ npm run dev
 
 ## 🧪 Running the tests
 
-No test scripts available (yet!)
+```bash
+npm run test
+```
+
+This will run all of the test suites with Jest and React Testing Library, in watch mode.
 
 ## 🧐 Built With
 
 - [Next.js](https://nextjs.org/) - The React framework
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [Chakra UI](https://chakra-ui.com/) - Simple, Modular & Accessible UI Components for your React Applications
+- [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Simple and complete React DOM testing utilities that encourage good testing practices.
+- [jest-dom](https://github.com/testing-library/jest-dom) - Custom jest matchers to test the state of the DOM
 
 ## ⭐️ Contributing
 
@@ -60,3 +69,7 @@ No test scripts available (yet!)
 ## 🪪 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/RickBr0wn/5f95ee6118bb32034e2b94acbd88a99d) file for details
+
+```
+
+```
