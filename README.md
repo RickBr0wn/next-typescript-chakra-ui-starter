@@ -15,7 +15,7 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### 🧳 Prerequisites
 
 To get this project running locally you will need:
 
@@ -23,7 +23,7 @@ To get this project running locally you will need:
 - a command line terminal (iTerm or bash)
 - your favorite IDE (vscode, sublime)
 
-### Installing
+### 💻 Installing
 
 Clone the repo, don't forget to change the name of the project:
 
